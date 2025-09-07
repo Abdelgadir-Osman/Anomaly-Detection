@@ -1,4 +1,5 @@
 # Mac Pro Visual Inspection using Anomalib Patchcore
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 This project implements a visual inspection system using the [Anomalib](https://github.com/openvinotoolkit/anomalib) Patchcore model to detect anomalies on high-resolution board images.
 
